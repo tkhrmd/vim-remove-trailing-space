@@ -1,0 +1,1 @@
+# vim-remove-trailing-space
